@@ -1,0 +1,39 @@
+<resources>
+    <string name="app_name">Lesson Homework</string>
+    <string name="action_logout">logout</string>
+    <string name="action_settings">settings</string>
+
+    <!-- string that used for Login Activity-->
+    <string name="login_button_info">login</string>
+    <string name="login_hint">username</string>
+    <string name="password_hint">password</string>
+    <string name="login_username_empty_toast">Error: empty username</string>
+    <string name="login_password_empty_toast">Error: empty password</string>
+
+    <!-- string that used for Quiz Activity-->
+    <string name="greeting">Hello World!!</string>
+    <string name="question_java">Java is the best programing language?</string>
+    <string name="question_oceans">The Pacific Ocean is larger than
+       the Atlantic Ocean.</string>
+    <string name="question_mideast">The Suez Canal connects the Red Sea
+       and the Indian Ocean.</string>
+    <string name="question_americas">The Amazon River is the longest river
+       in the Americas.</string>
+    <string name="question_africa">The source of the Nile River is in Egypt.</string>
+    <string name="question_asia">Lake Baikal is the world\'s oldest and deepest
+       freshwater lake.</string>
+    <string name="quiz_false_button">no</string>
+    <string name="quiz_true_button">yes</string>
+    <string name="quiz_next_button">next</string>
+    <string name="quiz_prev_button">prev</string>
+    <string name="quiz_correct_toast">Correct!</string>
+    <string name="quiz_incorrect_toast">Incorrect!</string>
+
+
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+</resources>
