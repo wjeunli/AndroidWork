@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Android Team Work</string>
+    <string name="action_logout">logout</string>
+    <string name="action_settings">settings</string>
+
+    <!-- string that used for Login Activity-->
+    <string name="login_button_info">login</string>
+    <string name="login_hint">username</string>
+    <string name="password_hint">password</string>
+    <string name="login_username_empty_toast">Error: empty username</string>
+    <string name="login_password_empty_toast">Error: empty password</string>
+
+    <!-- TWEET -->
+    <string name="tweet_alias">alias</string>
+    <string name="tweet_username">username</string>
+    <string name="tweet_reply">reply</string>
+    <string name="tweet_retweet">retweet</string>
+    <string name="tweet_star">star</string>
+</resources>
